@@ -79,6 +79,6 @@ This project is open-source under the MIT License.
 
 ## Author
 **Raghavendra KM**  
-[GitHub]([https://github.com/yourusername](https://github.com/Raghavendra-KM))  
+[GitHub](https://github.com/Raghavendra-KM))  
 [LinkedIn](linkedin.com/in/raghavendrakm08/)
 
