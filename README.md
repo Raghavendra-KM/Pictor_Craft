@@ -73,6 +73,6 @@ This project is open-source under the MIT License.
 
 ## Author
 **Raghavendra KM**  
-[GitHub](https://github.com/Raghavendra-KM)
+[GitHub](https://github.com/Raghavendra-KM) \n
 [LinkedIn](linkedin.com/in/raghavendrakm08/)
 
