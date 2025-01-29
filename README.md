@@ -71,8 +71,10 @@ The client will prompt for a text input and send the request to the server.
 ## License
 This project is open-source under the MIT License.
 
-### Special thanks to my Senior **Aatish Satheesan** for helping me with this project
-**Aatish Satheesan:** [GitHub](https://github.com/Aatish-S) [LinkedIn](https://www.linkedin.com/in/aatish-satheesan/)
+### Special thanks to my senior **Aatish Satheesan** for helping me with this project
+**Aatish Satheesan:** 
+[GitHub](https://github.com/Aatish-S) 
+[LinkedIn](https://www.linkedin.com/in/aatish-satheesan/)
 
 ## Author
 **Raghavendra KM**  
