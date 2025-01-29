@@ -1,0 +1,11 @@
+flask
+diffusers
+transformers
+torch
+torchvision
+torchaudio
+accelerate
+Pillow
+requests
+xformers
+safetensors
