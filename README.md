@@ -12,10 +12,10 @@ The project is built as a **client-server architecture**, where the server hosts
 - Command-line client for interacting with the server.
 - Image output in **PNG format**.
 
-## System Requirements
+## System Requirements (Changes based on the model used)
 ### Hardware
 - **CPU:** AMD Ryzen 7 6800H or equivalent (for CPU-based inference)
-- **GPU:** NVIDIA RTX 3050 (4GB VRAM) or higher (recommended for GPU acceleration)
+- **GPU:** NVIDIA RTX 3070 (6GB VRAM) or higher (recommended for GPU acceleration)
 - **RAM:** Minimum 8GB (16GB recommended for better performance)
 - **Storage:** At least 10GB of free space for model storage and image generation
 
@@ -68,17 +68,11 @@ The client will prompt for a text input and send the request to the server.
 }
 ```
 
-## Future Enhancements
-- **Web-based UI** for an interactive user experience.
-- **Multi-threading support** for handling multiple requests efficiently.
-- **Integration with cloud services** for high-performance GPU-based processing.
-- **Fine-tuning Stable Diffusion models** to customize AI-generated results.
-
 ## License
 This project is open-source under the MIT License.
 
 ## Author
 **Raghavendra KM**  
-[GitHub](https://github.com/Raghavendra-KM))  
+[GitHub](https://github.com/Raghavendra-KM)
 [LinkedIn](linkedin.com/in/raghavendrakm08/)
 
