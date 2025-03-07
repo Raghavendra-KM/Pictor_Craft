@@ -32,7 +32,7 @@ The project is built as a **client-server architecture**, where the server hosts
 ## Installation and Setup
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/PictorCraft.git
+git clone https://github.com/Raghavendra-KM/Pictor_Craft.git
 cd PictorCraft
 ```
 
