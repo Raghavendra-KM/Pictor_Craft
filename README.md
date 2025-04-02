@@ -67,7 +67,7 @@ The client will prompt for a text input and send the request to the server.
     "image": "<base64-encoded-image>"
 }
 ```
-**Example**
+**Example: Prompt-Sunset**
 
 ![Prompt-Sunset](https://github.com/user-attachments/assets/3162f8e9-8e22-4865-b88c-1568fcc30b8c)
 
